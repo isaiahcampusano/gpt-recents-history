@@ -1,0 +1,7 @@
+[
+  { "id": "images", "label": "Image generations", "used": 2, "limit": 3, "resetsInHours": 14 },
+  { "id": "uploads", "label": "File uploads", "used": 1, "limit": 3, "resetsInHours": 5 },
+  { "id": "voice", "label": "Voice minutes", "used": 4, "limit": 15, "resetsInHours": 20 },
+  { "id": "thinking", "label": "Thinking mode", "used": 120, "limit": 3000, "resetsInDays": 4 },
+  { "id": "text", "label": "Standard chat", "unlimited": true }
+]

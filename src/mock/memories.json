@@ -1,0 +1,9 @@
+{
+  "savedMemories": [
+    { "id": "m1", "text": "Prefers concise, bullet-point answers", "createdAt": "2026-02-11", "flag": null },
+    { "id": "m2", "text": "Working on a Unity game called ‘Driftwood’", "createdAt": "2025-06-03", "flag": "stale" },
+    { "id": "m3", "text": "Vegetarian", "createdAt": "2026-05-20", "flag": null },
+    { "id": "m4", "text": "Prefers detailed, narrative answers", "createdAt": "2025-12-19", "flag": "possible duplicate" }
+  ],
+  "referenceChatHistoryEnabled": true
+}
