@@ -1,15 +1,13 @@
 # Context Clarity
 
 A product concept exploring how ChatGPT could make usage limits, conversation context health, and memory state easier to understand and control.
+**[Try the live demo](https://isaiahcampusano.github.io/gpt-recents-history/)**
 
 <img width="1246" height="631" alt="image" src="https://github.com/user-attachments/assets/a316caf8-46d5-4f39-bc0f-e04dac7aee7a" />
 
 
-**[Try the live demo](https://isaiahcampusano.github.io/gpt-recents-history/)**
-
 Mock data only. This is an independent concept demo, not an official OpenAI product, and is not affiliated with or endorsed by OpenAI. No account data is accessed.
 
-<!-- TODO: add current product screenshot -->
 
 ## Why I built it
 
